@@ -1,0 +1,143 @@
+---
+title: "Careers in Omnichannel Retailing"
+author: "Ron Sabilla"
+date: today
+format:
+  html:
+    toc: true
+    toc-depth: 4
+    toc-expand: 2
+    toc-location: right-body
+    toc-title: "Contents"
+    number-sections: true
+    code-link: true
+    code-tools: true
+    theme: cosmo
+    highlight-style: github
+    embed-resources: true
+editor: visual
+execute:
+  freeze: auto
+  warning: false
+  message: false
+---
+
+# Introduction {#sec-intro}
+
+Omnichannel retailing has become one of the most important areas in modern marketing and business. As more consumers move between physical stores, websites, social media, and mobile apps during a single shopping journey, companies need professionals who understand how all of these channels work together. The demand for people who can manage campaigns, analyze data, coordinate across teams, and keep the customer experience consistent across every touchpoint is growing fast — and that is exactly what makes this career area so relevant right now.
+
+For this research essay, I explored entry-level and early-career roles in the digital marketing and e-commerce space. Specifically, I looked at three job postings that reflect the kinds of positions graduates from the MSDM program would be well suited for: a **Digital Marketing Coordinator** at ZO Skin Health, Inc., a **Retail Marketing Coordinator** at Skechers, and an **E-Commerce Coordinator** at Clearly Filtered. Each of these roles sits at the intersection of marketing strategy, digital tools, and cross-channel execution — which is exactly where omnichannel careers live.
+
+------------------------------------------------------------------------
+
+# Job Posting Summaries {#sec-postings}
+
+## ZO Skin Health, Inc. — Digital Marketing Coordinator {#sec-zo}
+
+::: {.callout-note title="Job Source"}
+LinkedIn — <https://www.linkedin.com/jobs/view/4412994358/>
+:::
+
+ZO Skin Health is a prestige skincare brand, and their Digital Marketing Coordinator role is focused on supporting the execution of campaigns across multiple channels including email, SMS, paid media (Meta, Google, TikTok), SEO, and affiliate marketing. Day-to-day responsibilities include helping manage timelines and approvals, organizing creative briefs and assets, supporting quality checks before campaigns go live, and coordinating with external agencies and internal teams. The role requires a bachelor's degree in marketing or a related field, familiarity with digital marketing tools, and strong organizational and communication skills. It is a coordination-heavy role that sits at the center of a busy marketing team, touching nearly every digital channel the company operates.
+
+## Skechers — Retail Marketing Coordinator {#sec-skechers}
+
+::: {.callout-note title="Job Source"}
+LinkedIn — <https://www.linkedin.com/jobs/view/4410770652/>
+:::
+
+Skechers, the global footwear brand, is looking for a Retail Marketing Coordinator to support the execution of in-store and grassroots marketing promotions. This role is more hands-on and operations-focused than the ZO Skin Health position — responsibilities include creating and distributing store signage and collateral, setting up discount codes in the POS system, coordinating new store openings with the digital team via email and SMS, pulling weekly promo reporting, and managing exterior store marketing like banners and flags. The role requires proficiency in Adobe Creative Suite (Photoshop, InDesign, Illustrator), strong Excel skills, and the ability to manage multiple projects across field staff and external vendors. It is a great example of how retail marketing still requires a lot of physical coordination even as digital channels become more dominant.
+
+## Clearly Filtered — E-Commerce Coordinator {#sec-clearly}
+
+::: {.callout-note title="Job Source"}
+LinkedIn — <https://www.linkedin.com/jobs/view/4424462746/>
+:::
+
+Clearly Filtered is a DTC water filtration brand, and their E-Commerce Coordinator role is the most digitally focused of the three. The position involves managing their Shopify storefront, monitoring Amazon Seller Central account health, supporting subscription program operations through platforms like Recharge, and coordinating cross-functional projects with designers, developers, and stakeholders. The role also includes conducting regular audits of product listings, monitoring competitor activity, and contributing to reporting and data collection. It requires familiarity with Shopify, Amazon Seller Central, Excel or Google Sheets, and project management tools like Asana or Monday.com. This role is a strong match for someone who wants to go deep in e-commerce operations.
+
+------------------------------------------------------------------------
+
+# Skills and Knowledge Required {#sec-skills}
+
+## Common Technical and Soft Skills Across All Three Roles {#sec-skills-analysis}
+
+::: panel-tabset
+### Technical Skills
+
+Looking at all three job postings — ZO Skin Health, Skechers, and Clearly Filtered — there are a lot of overlapping skills and tools that employers seem to really care about, which makes it easier to see what the digital marketing and e-commerce field is actually looking for right now. On the technical side, all three companies want candidates who are at least somewhat familiar with platforms like Shopify, Google Analytics, and paid media channels like Meta and Google Ads. Clearly Filtered goes a step further and mentions tools like Amazon Seller Central, Recharge, and project management platforms like Asana or Monday.com, while Skechers wants someone who knows Adobe Creative Suite and is strong in Excel, and ZO Skin Health brings in TikTok advertising and SEO coordination. So while each role has its own specific tools, the common thread is that employers want someone who is comfortable learning new platforms, working with data, and making sure campaigns are set up correctly before they go live.
+
+### Soft Skills
+
+When it comes to soft skills, all three postings line up almost exactly — every single one mentions attention to detail, strong communication, the ability to multitask in a fast-paced environment, and a proactive attitude. These are not just filler words either; they show up because coordinators are constantly managing timelines, chasing approvals, and keeping things from falling through the cracks. Overall, these job descriptions show that breaking into this field is not just about knowing the tools — it is equally about being organized, dependable, and willing to learn on the job, which is honestly pretty encouraging for someone just starting out.
+:::
+
+A summary of the most common skills across all three postings is captured below.
+
+| Skill Area               | ZO Skin Health | Skechers | Clearly Filtered |
+|--------------------------|----------------|----------|------------------|
+| Data & Reporting         | ✓              | ✓        | ✓                |
+| Attention to Detail      | ✓              | ✓        | ✓                |
+| Communication            | ✓              | ✓        | ✓                |
+| Campaign Coordination    | ✓              | ✓        | ✓                |
+| Adobe / Design Tools     |                | ✓        |                  |
+| Shopify / E-Commerce     |                |          | ✓                |
+| Paid Media Platforms     | ✓              |          | ✓                |
+| Project Management Tools |                |          | ✓                |
+
+: Common Skills Across Job Postings
+
+------------------------------------------------------------------------
+
+# Connection to This Course and the MSDM Program {#sec-msdm}
+
+The MSDM program does a really good job of preparing students for roles like these because the courses line up closely with what these companies are actually looking for. Throughout the program, students get exposure to tools and platforms like Shopify, Google Ads, Meta, and SEMrush, which are the exact same tools showing up in these job descriptions. This course specifically helps because it pushes you to work with real data, build out actual campaign strategies, and create deliverables that feel like real work rather than just a textbook assignment. The program also helps develop the soft skills that employers keep mentioning, like staying organized, meeting deadlines, and communicating clearly, which are things you naturally practice when you are juggling multiple projects and assignments at once. The microinternships are probably the biggest advantage the program offers because they give you actual hands-on experience you can put on your resume and talk about in an interview. Overall, the MSDM program sets students up well because it is not just about learning concepts — it is about actually applying them, which is exactly what these coordinator roles expect you to do from day one.
+
+::: {.callout-tip title="Key MSDM Advantage"}
+The combination of hands-on projects, microinternships, and tool-based learning in the MSDM program directly mirrors what these coordinator roles ask for — making graduates genuinely competitive for entry-level positions in digital marketing and e-commerce.
+:::
+
+------------------------------------------------------------------------
+
+# Personal Career Reflection {#sec-reflection}
+
+## Role of Interest and Why {#sec-role-interest}
+
+The role that interests me the most is the Digital Marketing Coordinator position. The reason this role appeals to me is because it directly aligns with why I enrolled in the MSDM program in the first place. I am drawn to the idea of being able to analyze data and contribute to social media strategy, and this role touches on both of those areas. I also genuinely enjoy learning new marketing platforms like SEMrush, Hootsuite, and others, which makes the tool-heavy nature of this role exciting rather than intimidating.
+
+## Current Strengths {#sec-strengths}
+
+In terms of my current strengths, I would say my biggest asset is being tech-savvy. I tend to pick up new software quickly, which is important in a field where the tools and platforms are constantly evolving. I am also a fast learner, which I think gives me an advantage when it comes to adapting to new workflows or picking up platform-specific skills on the job.
+
+## Areas for Improvement {#sec-improve}
+
+That said, there are still areas I need to develop. I want to strengthen my hands-on experience with paid media platforms like Meta Ads and Google Ads, get more comfortable with campaign reporting and performance analysis, and build a stronger understanding of SEO strategy beyond the basics. These are skills that look great on paper but really require practice to master.
+
+## Next Steps for Career Preparation {#sec-nextsteps}
+
+> *"The best time to start building your portfolio is now — while you still have projects and professors around you."*
+
+As for my next steps, my two main priorities are finding clarity on the specific mechanics of the Digital Marketing Coordinator role and actively building evidence of my skills. Through the MSDM program, I plan to take full advantage of microinternships and class projects to get real, applicable experience I can point to. Assignments like the omnichannel journey map, Shopify prototype, and campaign planning projects are exactly the kind of work I can showcase in a portfolio. I also want to use this semester to update my LinkedIn profile to reflect the tools and skills I am learning, and make sure my resume speaks the language of the job descriptions I am targeting.[^1]
+
+[^1]: Tailoring resume language to match job description keywords is also an effective strategy for passing Applicant Tracking Systems (ATS), which many large employers use to screen applications before a human ever reads them.
+
+------------------------------------------------------------------------
+
+# References {#sec-references}
+
+The following job postings were used as the basis for this research essay. Because job postings may expire, screenshots or PDFs have been saved for reference.
+
+- **ZO Skin Health, Inc. — Digital Marketing Coordinator** <https://www.linkedin.com/jobs/view/4412994358/>
+
+- **Skechers — Retail Marketing Coordinator** <https://www.linkedin.com/jobs/view/4410770652/>
+
+- **Clearly Filtered — E-Commerce Coordinator** <https://www.linkedin.com/jobs/view/4424462746/>
+
+------------------------------------------------------------------------
+
+# Appendix {#sec-appendix .appendix}
+
+## GitHub Links {#sec-github}
+
+- QMD File: <https://github.com/yourusername/your-repo/blob/main/W04/Sabilla-Ron-OACP-Career_Research.qmd>
+- GitHub Page (Rendered HTML): <https://yourusername.github.io/your-repo/W04/Sabilla-Ron-OACP-Career_Research.html>
